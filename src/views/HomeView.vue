@@ -1,7 +1,7 @@
 <template>
   <div class="home-view-container">
     <div class="container my-5">
-      <h2 class="text-center section-title">🍔 Khám Phá Món Ăn</h2>
+      <h2 class="text-center section-title">🍔 Khám Phá Món Ăn Nơi Đây</h2>
       <div class="food-grid other-foods">
         <div
           v-for="food in dsMonDangHienThi"
